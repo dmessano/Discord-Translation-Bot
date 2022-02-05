@@ -1,0 +1,19 @@
+{
+  "name": "translation-bot",
+  "version": "1.0.0",
+  "description": "Uses Deepl.com to Translate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deepl",
+    "translate"
+  ],
+  "author": "RRiVEN LLC (alliancex.org)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.6.0"
+  }
+}
